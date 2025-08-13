@@ -30,7 +30,6 @@ environment:
   flutter: ">=3.22.0"
 
 flutter:
-  disable-swift-package-manager: true
   plugin:
     platforms:
       android:
